@@ -1,0 +1,13 @@
+name: ml-project_v1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.7
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn=1.5.1
+  - scipy
+  - ipykernel
