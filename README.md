@@ -24,7 +24,7 @@ Course project for Machine Learning, MSc in Data Science and Advanced Analytics,
 | HistGradientBoosting | 1,196 |
 | **Stacking ensemble (final)** | **1,186** |
 
-The final model stacks two HistGradientBoosting models and one Gradient Boosting model under a linear-regression meta-model. It produced the price predictions for 32,567 test cars.
+The final stacking ensemble produced the price predictions for 32,567 test cars.
 
 ## Repository contents
 
